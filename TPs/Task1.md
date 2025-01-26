@@ -1,4 +1,4 @@
-# Imatah App Exercise
+# Sougna App Exercise
 
 ## Objective
 Complete the implementation of a simple list management app with search functionality using Jetpack Compose.
